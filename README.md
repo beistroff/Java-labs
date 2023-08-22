@@ -9,3 +9,4 @@ https://github.com/VLazorykOOP/jlab2-GaliasAndriy
 https://github.com/VLazorykOOP/jlab1-GaliasAndriy
 
 C++ project using OOP principles (Automated system - entrance exams) 
+https://github.com/GaliasAndriy/OOPLab_7
